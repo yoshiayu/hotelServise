@@ -1,0 +1,5 @@
+// .babelrc ファイルの内容
+{
+    "presets": ["@babel/preset-env"]
+  }
+  
